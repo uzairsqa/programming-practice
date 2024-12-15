@@ -1,2 +1,1 @@
-# programming-practice
-This repository is to practice code and maintain repository in it
+# automation-training-2-QA
